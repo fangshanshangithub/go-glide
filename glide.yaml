@@ -1,0 +1,11 @@
+package: go-glide/src
+import:
+- package: github.com/kataras/iris
+
+- package: golang.org/x/sys
+  repo: https://github.com/golang/sys.git
+- package: golang.org/x/net
+  repo: https://github.com/golang/net.git
+- package: golang.org/x/crypto
+  repo: https://github.com/golang/crypto.git
+
